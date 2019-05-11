@@ -77,6 +77,8 @@ pixels.fill((0, 0, 0))
 pixels.show()
 
 while True:
+    if cpx.shake(13):
+       roll_to_hit()
     if cpx.button_a:
         roll_to_hit()
     if cpx.button_b:
