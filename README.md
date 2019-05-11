@@ -7,11 +7,11 @@ Copy the code.py and three enclosed .wav files to your Circuit Playground Expres
 
 ## How to Use
 
-Button A on the CPE will trigger an d20 roll. Results are displayed as lights: red for tens, green for ones.
+Button A on the CPE will trigger a d20 roll. Results are displayed as lights: red for tens, green for ones.
 
 On a natural 20, you'll get a fanfare and a rainbow light magical moment. 
 
-On a natural one, you will be ridiculed and the device will light up red. 
+On a natural 1, you will be ridiculed and the device will light up red. 
 
 Button B will re-initialize the lights for quick re-rolling. 
 
