@@ -1,4 +1,4 @@
-# cpediceroller
+# Dicebag for CPX
 A diceroller for D&D  with sound and light effects for the Circuit Playground Express.
 
 ## Installation
